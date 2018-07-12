@@ -15,8 +15,7 @@ const getClientEnvironment = require('./env');
 
 // antd theme
 // const theme = {"primary-color": "#ff5722"};
-const themeConfig = require('../src/themes/theme')
-const theme = themeConfig.theme ? themeConfig.theme : {};
+const theme = require('../src/themes/theme')
 
 
 // Webpack uses `publicPath` to determine where the app is being served from.

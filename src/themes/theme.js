@@ -1,2 +1,2 @@
 
-// exports.theme = { "primary-color": "#ff5722" };
+//module.exports = {"primary-color": "#ff5722" };
