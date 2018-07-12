@@ -1,7 +1,7 @@
 
 
 ```bash
-yarn start
+yarn && yarn start
 ```
 ##  init config / 配置
 **由create-react-app 改造而来，主要因为antd使用less，需要修改配置**
